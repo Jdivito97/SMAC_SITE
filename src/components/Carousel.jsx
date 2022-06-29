@@ -1,5 +1,5 @@
 import React from "react";
-import { CustomSwiper, CustomSwiperSlide } from "./Components.styles";
+import { CustomSwiper } from "./Components.styles";
 import { SwiperSlide } from "swiper/react";
 import Swiper, { Pagination, Navigation } from "swiper";
 

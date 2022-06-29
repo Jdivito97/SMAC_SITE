@@ -1,15 +1,6 @@
 import React from "react";
 import Carousel from "./Carousel";
-import {
-  Rates,
-  AddressInfo,
-  Location,
-  SubContainer,
-  MiscInfo,
-  SubContainer2,
-  InfoCard,
-  Info,
-} from "./Components.styles";
+import { MiscInfo, SubContainer2, InfoCard, Info } from "./Components.styles";
 
 const FeaturesInfo = () => {
   return (

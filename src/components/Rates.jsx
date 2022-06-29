@@ -1,26 +1,11 @@
 import React from "react";
 import {
-  Banner,
   Info,
-  Location,
-  Features,
-  Merch,
-  Logo,
   About,
-  Heading,
-  TextBlock,
-  LogoContainer,
-  VerticalBar,
-  Details,
-  DetailText,
   Rates,
-  RatesContainer,
-  IntroContainer,
-  DetailsContainer,
   AboutContainer,
   ListItem,
   ListHeader,
-  Section,
 } from "./Components.styles";
 const RatesInfo = () => {
   return (
